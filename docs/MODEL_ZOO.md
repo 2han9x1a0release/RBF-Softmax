@@ -45,7 +45,7 @@ This file documents a collection of baselines and pretrained models trained with
 
 
 ### EfficientNet Models
-*As a reference: The top-1 ImageNet baseline of EfficientNet-B0,B1,B4 is 24.9%, 24.1%, 21.2% in [pycls](https://github.com/facebookresearch/pycls/blob/master/MODEL_ZOO.md), respectively.*
+- *As a reference: The top-1 ImageNet baseline of EfficientNet-B0,B1,B4 is 24.9%, 24.1%, 21.2% in [pycls](https://github.com/facebookresearch/pycls/blob/master/MODEL_ZOO.md), respectively.*
 
 
 <table><tbody>
