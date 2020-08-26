@@ -4,22 +4,28 @@
 [RBF-Softmax](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710290.pdf) is a simple but effective image classification loss function of deep neural networks. This RBF-Softmax project written in [PyTorch](https://pytorch.org/) and modified from [pycls](https://github.com/facebookresearch/pycls).
 
 
+
+
+In RBF-Softmax, logits are calculated by RBF kernel and then scale by a hyperparameter. So here the weights in last FC are treated as class prototypes.
 <div align="center">
-  <img src="docs/IMGS/vis_comp.png" width="550px" />
-  <p align="center"><b>RBF-Softmax</b> The MNIST toy demo visualization of RBF-Softmax and other losses.</p>
+  <img src="docs/IMGS/Pipeline.png" width="650px" />
+  <p align="center"><b>RBF-Softmax Pipeline</b> </p>
 </div> 
 
 
+
+
+The MNIST toy demo visualization of RBF-Softmax and other losses.
 <div align="center">
-  <img src="docs/IMGS/Pipeline.png" width="550px" />
-  <p align="center"><b>RBF-Softmax Pipeline</b> In RBF-Softmax, logits are calculated by RBF kernel and then scale by a hyperparameter. So here the weights in last FC are treated as class prototypes.</p>
+  <img src="docs/IMGS/vis_comp.png" width="550px" />
+  <p align="center"><b>RBF-Softmax</b> </p>
 </div> 
 
 
 
 Following gif is the 2D feature visualization of RBF-Softmax trained on MNIST. With the training conducting, the inner class distances become smaller and smaller.
 <div align="center">
-  <img src="docs/IMGS/RBF_Softmax.gif" width="350px" />
+  <img src="docs/IMGS/RBF_Softmax.gif" width="450px" />
   <p align="center"><b>Feature Vis.</b> </p>
 </div> 
 
