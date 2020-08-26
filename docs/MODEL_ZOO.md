@@ -17,7 +17,7 @@ This file documents a collection of baselines and pretrained models trained with
 **NOTE: All the released RBF-Softmax models are from the last training epoch, not the best evaluated models. The results of best-performed models are higher than these released models.**
 
 ### ResNet Models
-* As a reference: The top-1 error ImageNet baseline of ResNet-50 is 23.3% in [pycls](https://github.com/facebookresearch/pycls/blob/master/MODEL_ZOO.md), 23.85% in [Pytorch Pretrain](https://pytorch.org/docs/stable/torchvision/models.html), and 24.4% in [TensorFlow Slim](https://github.com/tensorflow/models/tree/master/research/slim) *
+-  *As a reference: The top-1 error ImageNet baseline of ResNet-50 is 23.3% in [pycls](https://github.com/facebookresearch/pycls/blob/master/MODEL_ZOO.md), 23.85% in [Pytorch Pretrain](https://pytorch.org/docs/stable/torchvision/models.html), and 24.4% in [TensorFlow Slim](https://github.com/tensorflow/models/tree/master/research/slim)*
 
 <table><tbody>
 <!-- START ResNet TABLE -->
