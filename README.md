@@ -10,8 +10,12 @@
 </div> 
 
 
-The vis
-![image](docs/IMGS/RBF_Softmax.gif)
+The 2D feature visualization of RBF-Softmax trained on MNIST.
+<!-- ![image](docs/IMGS/RBF_Softmax.gif) -->
+<div align="center">
+  <img src="docs/IMGS/RBF_Softmax.gif" width="350px" />
+  <p align="center"><b>Feature Vis.</b> </p>
+</div> 
 
 
 ## Introduction
