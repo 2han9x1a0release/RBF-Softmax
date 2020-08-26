@@ -38,7 +38,7 @@ This file documents a collection of baselines and pretrained models trained with
 <td align="center">11.1</td>
 <td align="center">256</td>
 <td align="center">22.9</td>
-<td align="center"><a href="https://.pyth">model</a></td>
+<td align="center"><a href="https://www.dropbox.com/s/geo7xb4gz422n1r/RBF_ResNet50.pyth?dl=0">model</a></td>
 </tr>
 <!-- END ResNet TABLE -->
 </tbody></table>
@@ -67,7 +67,7 @@ This file documents a collection of baselines and pretrained models trained with
 <td align="center">6.7</td>
 <td align="center">256</td>
 <td align="center">24.8</td>
-<td align="center"><a href="https://.pyth">model</a></td>
+<td align="center"><a href="https://www.dropbox.com/s/d95nvzufu0iopsw/RBF_EffNet-B0.pyth?dl=0">model</a></td>
 </tr>
 <!-- ROW EfficientNet-B1-RBF -->
 <tr>
@@ -77,7 +77,7 @@ This file documents a collection of baselines and pretrained models trained with
 <td align="center">10.9</td>
 <td align="center">256</td>
 <td align="center">23.5</td>
-<td align="center"><a href="https://.pyth">model</a></td>
+<td align="center"><a href="https://www.dropbox.com/s/4n4yxyjxllxyavv/rbf_effnet-b1.pyth?dl=0">model</a></td>
 </tr>
 <!-- ROW EfficientNet-B4-RBF -->
 <tr>
@@ -87,7 +87,7 @@ This file documents a collection of baselines and pretrained models trained with
 <td align="center">48.5</td>
 <td align="center">128</td>
 <td align="center">21.1</td>
-<td align="center"><a href="https://.pyth">model</a></td>
+<td align="center"><a href="https://www.dropbox.com/s/rp6bevik3p1qke1/rbf_effnet-b4.pyth?dl=0">model</a></td>
 </tr>
 <!-- END EfficientNet TABLE -->
 </tbody></table>
